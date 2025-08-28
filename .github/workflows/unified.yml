@@ -49,6 +49,14 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y google-chrome-stable
 
+      # ===== CREAZIONE ENV ========
+      - name: Copy example .env and inject secrets
+        run: |
+          echo "=== CREAZIONE .env ==="
+          cp .env.template .env
+          echo "MFP=${{ secrets.MFP_HOST }}" >> .env
+          echo "PSW=${{ secrets.MFP_API_KEY }}" >> .env
+
       # ===== PULIZIA INIZIALE =====
       - name: Clean existing JSON files
         run: |
@@ -62,14 +70,7 @@ jobs:
         run: |
           echo "=== STEP 1: Starting 247VVDD update ==="
           rm -f 247ita.m3u8
-      - name: Copy example .env and inject secrets
-        run: |
-          cp .env.template .env
-          echo "MFP=${{ secrets.MFP }}" >> .env
-          echo "PSW=${{ secrets.PSW }}" >> .env
-          echo "MFP2=${{ secrets.MFP2 }}" >> .env
-          echo "PSW2=${{ secrets.PSW2 }}" >> .env
-          
+        
       - name: "STEP 1: Run 247VVDD scripts"
         run: |
           python vavoo.py
