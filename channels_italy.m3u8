@@ -150,9 +150,6 @@ https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1
 #EXTINF:-1 tvg-id="hgtv.it" tvg-name="Hgtv (2)" tvg-logo="" group-title="Discovery",HGTV (V) (2)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
-https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (V)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/576490047036ac0227958&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -435,9 +432,6 @@ https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1
 #EXTINF:-1 tvg-id="skydocumentaries.it" tvg-name="Sky Documentaries" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Sky",SKY DOCUMENTARIES (V)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skynature.it" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari;Sky",SKY NATURE (V)
-https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 1 (V)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -570,6 +564,9 @@ https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba (2)" tvg-logo="" group-title="Sport",SKY SPORT NBA (V) (2)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysportseriea.it" tvg-name="Sky Sport Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A (V)
+https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -589,6 +586,9 @@ https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/55828211836e421b20575&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="Notizie;Sky",SKY TG 24 (V)
+https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/33760313550167605877f1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24 (2)" tvg-logo="" group-title="Notizie;Sky",SKY TG 24 (V) (2)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
