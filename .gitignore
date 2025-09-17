@@ -658,3 +658,6 @@ __pycache__/
 __pycache__/
 *.pyc
 *.env
+__pycache__/
+*.pyc
+*.env
