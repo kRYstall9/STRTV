@@ -72,6 +72,9 @@ https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport",DAZN 1 (V)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="dazn2.it" tvg-name="Dazn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/882px-DAZN_2.svg.png" group-title="Sport",DAZN 2 (V)
+https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/963607327f90ada131395&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -120,6 +123,9 @@ https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1
 #EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Intrattenimento;Mediaset",FOCUS (V)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/3439223610a4fec93d907a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus (2)" tvg-logo="" group-title="Intrattenimento;Mediaset",FOCUS (V) (2)
+https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Discovery",FOOD NETWORK (V)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/2820683351b557bc63df61&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -146,9 +152,6 @@ https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1
 
 #EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="history.it" tvg-name="History (2)" tvg-logo="" group-title="Documentari;Sky",HISTORY (V) (2)
-https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (V)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/576490047036ac0227958&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -408,6 +411,9 @@ https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1
 #EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film;Sky",SKY CINEMA ROMANCE (V)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/2890008905a6ae9fa14809&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ROMANCE (V) (2)
+https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film;Sky",SKY CINEMA SUSPENSE (V)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -504,9 +510,6 @@ https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1
 #EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 9 (V) (2)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/17532606771304e2497369&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyserie.it" tvg-name="Sky Serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film;Sky",SKY SERIE (V)
-https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysport.it" tvg-name="Sky Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT (V)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -545,9 +548,6 @@ https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1
 
 #EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX (V)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Motogp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTOGP (V)
-https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (V)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -641,9 +641,6 @@ https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1
 
 #EXTINF:-1 tvg-id="wwechannel.it" tvg-name="Wwe Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Discovery",WWE CHANNEL (V)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="zonadazn.it" tvg-name="Zona Dazn" tvg-logo="https://www.digital-news.it/img/palinsesti/2023/12/1701423631-zona-dazn.webp" group-title="Sport",ZONA DAZN (V)
-https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://vavoo.to/vavoo-iptv/play/291117845637cc65891f64&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EuroSport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EuroSport 1  (D)
 https://mediaflow.selfhosted-gali.org/proxy/hls/manifest.m3u8?api_password=th1s1sMyPassW0rd&d=https://thedaddy.click/stream/stream-878.php
